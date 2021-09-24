@@ -1,0 +1,1 @@
+<validation-toastr :error-object="validationErrors"></validation-toastr>

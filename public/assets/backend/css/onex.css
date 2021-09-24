@@ -1,0 +1,152 @@
+.fa-2x {
+  font-size: 1.6em !important;
+}
+
+.navy {
+  color: #001f3f;
+}
+
+.wizard .nav-tabs {
+  position: relative;
+  margin-bottom: 0;
+  border-bottom-color: transparent;
+}
+
+.wizard > div.wizard-inner {
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.connecting-line {
+  height: 2px;
+  background: #e0e0e0;
+  position: absolute;
+  width: 100%;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 15px;
+  z-index: 1;
+}
+
+span.round-tab {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  display: inline-block;
+  border-radius: 50%;
+  background: #fff;
+  z-index: 2;
+  position: absolute;
+  left: 0;
+  text-align: center;
+  font-size: 16px;
+  color: #0e214b;
+  font-weight: 500;
+  border: 1px solid #ddd;
+}
+
+.wizard li.active span.round-tab {
+  background: #001f3f;
+  color: #fff;
+  border-color: #000;
+}
+
+.wizard .nav-tabs > li {
+  width: 25%;
+  text-align: center;
+}
+
+.wizard .nav-tabs > li a {
+  width: 30px;
+  height: 30px;
+  margin: 20px auto;
+  border-radius: 100%;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  top: 0;
+  left: -15px;
+  text-align: center;
+}
+
+.wizard .nav-tabs > li a:hover {
+  background: transparent;
+}
+
+.ofs-14 {
+  font-size: 14px;
+}
+
+[v-cloak] {
+  display: none;
+}
+
+[v-cloak] .v-cloak--block {
+  display: block !important;
+}
+
+[v-cloak] .v-cloak--inline {
+  display: inline !important;
+}
+
+[v-cloak] .v-cloak--inlineBlock {
+  display: inline-block !important;
+}
+
+[v-cloak] .v-cloak--hidden {
+  display: none !important;
+}
+
+[v-cloak] .v-cloak--invisible {
+  visibility: hidden !important;
+}
+
+.v-cloak--block, .v-cloak--inline, .v-cloak--inlineBlock {
+  display: none !important;
+}
+
+.swal2-title {
+  font-size: 1.6em !important;
+}
+
+.swal2-html-container {
+  font-size: 16px !important;
+}
+
+.swal2-styled.swal2-confirm {
+  background-color: #001f3f !important;
+}
+
+.swal2-icon.swal2-info {
+  border-color: #001f3f !important;
+  color: #01101f !important;
+}
+
+.swal2-loader {
+  border-color: #001f3f transparent #001f3f transparent !important;
+}
+
+.pwd-hide-show:hover {
+  cursor: pointer;
+}
+
+.pwd-hide-show .fa-eye {
+  font-size: 0.78em !important;
+}
+
+.swal2-cancel {
+  background-color: #dc3545 !important;
+}
+
+.btn-outline-navy {
+  background-color: #fff;
+  border-color: #011120;
+}
+
+.btn-outline-navy:hover {
+  background-color: #001f3f;
+  color: #fff;
+}
+
+/*# sourceMappingURL=onex.css.map */

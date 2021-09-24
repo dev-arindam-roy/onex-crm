@@ -1,0 +1,35 @@
+http://s4l1h.github.io/vue-toastr/global_options.html#overwrite-default-options-via-plugin-options
+
+https://www.npmjs.com/package/vue-toastr
+http://s4l1h.github.io/vue-toastr/
+
+ONEX-CRM
+---------------------------------------------------------------------------------------------------
+1. Client => Main
+2. Customer => Main
+3. onex-master => 
+    -Admin Role
+        -- Manage (Edit/View/Active/Inactive/Delete) client
+        -- Manage all master tables data
+        -- Manage master admins
+    -User Role
+        -- (Limited fields edit/View) client
+        -- Only add in inactive state master tables data 
+
+ONEX-MONITOR
+----------------------------------------------------------------------------------------------------
+Node + Vue3 + MySQL
+-- error logs
+-- client login logs
+-- admin login logs
+-- api logs
+-- clients feedback check
+-- feedback reply
+
+ONEX-OPERATOR
+----------------------------------------------------------------------------------------------------
+-- Sales
+
+ONEX-OFFICIAL
+---------------------------------------------------------------------------------------------------
+-- Data Analytics
